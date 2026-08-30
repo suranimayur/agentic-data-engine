@@ -116,8 +116,8 @@ The system follows a hierarchical agent architecture with three interconnected L
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/suranimayur/AI_Data_Agent_Project_101.git
-cd AI_Data_Agent_Project_101
+git clone https://github.com/suranimayur/agentic-data-engine.git
+cd agentic-data-engine
 
 # Create virtual environment
 python -m venv .venv
@@ -176,7 +176,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-AI_Data_Agent_Project_101/
+agentic-data-engine/
 │
 ├── main.py                     # Entry point — invokes the data agent
 ├── feed_db.py                  # Database seeder (CSV to PostgreSQL)
